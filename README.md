@@ -5,9 +5,13 @@
 
 ## 前提条件
 - 已安装必要库（例如 `requests`、`pandas` 等）的Python环境
+  
 google-play-scraper
+
 pandas version: 2.0.3
+
 googletrans version: 4.0.0-rc.1
+
 requests version: 2.31.0
 
 - 访问终端或命令行界面
